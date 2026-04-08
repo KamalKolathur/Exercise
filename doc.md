@@ -1,3 +1,5 @@
-gitgit lsThis documentation describes how to use the Pavel robotic toothbrush.
+gitgit lsThis documentation describes how to use the Pavel automatic toothbrush.
 
-Note that this toothbrush is totally safe to use for children, adults, or pets.
+Note that this toothbrush is totally safe to use for children, adults, pets, and wildlife.
+
+Kamal
