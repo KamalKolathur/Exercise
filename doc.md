@@ -1,9 +1,9 @@
 
 =======
-This documentation describes how to use the Karel robotic toothbrush.
+This documentation illustrates how to use the Karel robotic toothbrush.
 
 Note that this toothbrush is totally safe to use for children, adults, pets, and wildlife.
 
-The toothbrush requires something.
+The toothbrush wants something.
 
 
